@@ -5,7 +5,7 @@
 
 <img src="./http-pictures/001.png" alt="*Response" style="width:50%">
 
-## GET Response
+## Get Response
 
 - `func Get(url string) (resp *Response, err error)`
 - `resp, err := http.Get("http://example.com/")`
