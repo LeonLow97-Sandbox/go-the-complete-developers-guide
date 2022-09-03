@@ -15,7 +15,7 @@
 - A **common point of contact** for the multiple sources of input coming into the application.
 - So many functions but they all just mean printing the source of input with differnt data types.
 
-<img src="./http-pictures/002.png" alt="*Response" style="width:49%;display:inline-block">
+<img src="./http-pictures/002.png" alt="*Response" style="width:49%;display:inline-block"> 
 <img src="./http-pictures/003.png" alt="*Response" style="width:50%;display:inline-block">
 
 <img src="./http-pictures/004.png" alt="*Response" style="width:49%;display:inline-block">
